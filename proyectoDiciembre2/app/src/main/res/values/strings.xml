@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">proyectoDiciembre</string>
+    <string name="imagen">imagen</string>
+    <string name="bienvenido">BIENVENIDO</string>
+    <string name="joseluis">José Luis Álvarez Fernández</string>
+    <string name="multiplicacion">MULTIPLICACION</string>
+    <string name="suma">SUMA</string>
+    <string name="numero1">NUMERO1</string>
+    <string name="numero2">NUMERO2</string>
+    <string name="resultado">RESULTADO</string>
+    <string name="carrito">CARRITO</string>
+    <string name="agregar">agregar</string>
+    <string name="redes_sociales">https://twitter.com/home?lang=es</string>
+    <string name="mostrar">MOSTRAR</string>
+    <string name="mostrarComentarios">Que difícil es aprender a programar en Android!!</string>
+    <string name="comentarios">COMENTARIOS</string>
+    <string name="ubicacion">UBICACION</string>
+    <string name="mayonesa">MAYONESA</string>
+    <string name="cocacola">COCACOLA</string>
+    <string name="mantequilla">MANTEQUILLA</string>
+    <string name="naranjas">NARANJAS</string>
+    <string name="platanos">PLATANOS</string>
+    <string name="cebollas">CEBOLLAS</string>
+    <string name="patatas">PATATAS</string>
+    <string name="sandias">SANDIAS</string>
+    <string name="kiwis">KIWIS</string>
+    <string name="manzanas">MANZANAS</string>
+    <string name="peras">PERAS</string>
+    <string name="operaciones">OPERACIONES</string>
+</resources>
